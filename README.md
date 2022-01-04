@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="MarcoJHB's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MarcoJHB&show_icons=true&hide_border=true" />
+  [![MarcoJHB's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoJHB)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
