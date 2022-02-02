@@ -1,6 +1,6 @@
 # Hi there, I'm Marco Agas - aka [MarcoJHB][website] 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/marcojhb?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MarcoJHB)
+[![Twitter Follow](https://img.shields.io/twitter/follow/marcojhb?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MarcoJHB) [![Dev.to Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/marcojhb)
 
 ## I'm a front-end developer in training!!
 
@@ -32,7 +32,7 @@
 ### Application and Data:
 
 <span>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white">
  </span>
  
  ### UX/UI
