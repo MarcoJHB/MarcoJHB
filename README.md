@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning HTML, CSS, SCSS, JS
 - 🥅 2022 Goals: Create my own React app
-- ⚡ Fun fact: I love gaming
+- ⚡ Fun fact: I love gaming, typography and Drum and Bass
 
 ### Connect with me:
 
