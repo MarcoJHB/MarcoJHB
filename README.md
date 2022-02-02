@@ -32,14 +32,10 @@
 
 ---
 
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   [![MarcoJHB's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoJHB)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
 
 [website]: https://thejc.co.za
 [course]: http://vsCodeHero.com
