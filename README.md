@@ -58,6 +58,14 @@
  <span>
 <img src="https://img.shields.io/badge/-Asana-273347?logo=asana&logoColor=white"> <img src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white">
  </span>
+ 
+
+<p>
+ </br>
+ </p>
+ 
+ 
+ ![](https://komarev.com/ghpvc/?username=MarcoJHB&label=PROFILE+VIEWS&style=flat-square)
 
 
 [website]: https://thejc.co.za
