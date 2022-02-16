@@ -10,10 +10,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="The Juice Creative" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="marcojhb | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="marcojhb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="marcojhb | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="marcojhb | Website" width="33px" src="https://img.icons8.com/ultraviolet/40/000000/domain.png"/>][website]
+[<img align="left" alt="marcojhb | Twitter" width="33px" src="https://img.icons8.com/ultraviolet/40/000000/twitter.png" />][twitter]
+[<img align="left" alt="marcojhb | LinkedIn" width="33px" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="marcojhb | Instagram" width="33px" src="https://img.icons8.com/ultraviolet/40/000000/instagram-new.png" />][instagram]
+</br>
 </br>
 ## :chart_with_upwards_trend: GitHub Stats
 
